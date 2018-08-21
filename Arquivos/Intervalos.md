@@ -2,105 +2,105 @@
 
 <br>
 
-### O QUE É?
+### O QUE Ã‰?
 
-Intervalo é a distância entre uma nota e outra. Só isso? Sim! Quase tudo hoje é medido de alguma forma. A distância de uma cidade a outra, a distância do seu nariz à sua boca e por aí vai. Na música não é diferente, precisamos saber a distância entre uma nota e outra.
+Intervalo Ã© a distÃ¢ncia entre uma nota e outra. SÃ³ isso? Sim! Quase tudo hoje Ã© medido de alguma forma. A distÃ¢ncia de uma cidade a outra, a distÃ¢ncia do seu nariz Ã  sua boca e por aÃ­ vai. Na mÃºsica nÃ£o Ã© diferente, precisamos saber a distÃ¢ncia entre uma nota e outra.
 
 Para isso, usamos as unidades: **tom** e **semitom**.
 
 - 1 tom = 2 semitons
 
-Ou seja, 1 **semitom** é metade de 1 **tom**. Se fossemos colocar em números ficaria mais ou menos assim:
+Ou seja, 1 **semitom** Ã© metade de 1 **tom**. Se fossemos colocar em nÃºmeros ficaria mais ou menos assim:
 
 - **tom**: 1
 - **semitom**: 0,5
 
-Legal, legal...Mas por que eles são importantes? Porque eles são a base das escalas e dos acordes. Por exemplo, num acorde maior, usamos a **tônica** (nota que dá nome ao acorde), a **terça maior** e a **quinta justa**, que são intervalos calculados a partir da **tônica**.
+Legal, legal...Mas por que eles sÃ£o importantes? Porque eles sÃ£o a base das escalas e dos acordes. Por exemplo, num acorde maior, usamos a **tÃ´nica** (nota que dÃ¡ nome ao acorde), a **terÃ§a maior** e a **quinta justa**, que sÃ£o intervalos calculados a partir da **tÃ´nica**.
 
-Não se preocupe se não entendeu, continue lendo e você entenderá (não de primeira, mas terá uma noção). **:D**
+NÃ£o se preocupe se nÃ£o entendeu, continue lendo e vocÃª entenderÃ¡ (nÃ£o de primeira, mas terÃ¡ uma noÃ§Ã£o). **:D**
 
 ___
 
-### DIVISÃO DE INTERVALOS
+### DIVISÃƒO DE INTERVALOS
 
 Os intervalos se dividem em:
 
-- **Intervalo melódico**: quando as notas são tocadas em sequência e não juntas. (tipo 1, 2, 3 e não 123)
+- **Intervalo melÃ³dico**: quando as notas sÃ£o tocadas em sequÃªncia e nÃ£o juntas. (tipo 1, 2, 3 e nÃ£o 123)
 
-- **Intervalo harmônico**: quando as notas são tocadas juntas, ao contrário do intervalo melódico.
+- **Intervalo harmÃ´nico**: quando as notas sÃ£o tocadas juntas, ao contrÃ¡rio do intervalo melÃ³dico.
 
-- **Intervalo simples**: quando o intervalo está dentro de uma oitava: segunda, terça, quarta, quinta, sexta, sétima e oitava.
+- **Intervalo simples**: quando o intervalo estÃ¡ dentro de uma oitava: segunda, terÃ§a, quarta, quinta, sexta, sÃ©tima e oitava.
 
-- **Intervalo composto**: quando ultrapassa uma oitava: nona, décima, décima primeira, décima segunda, décima terceira.
+- **Intervalo composto**: quando ultrapassa uma oitava: nona, dÃ©cima, dÃ©cima primeira, dÃ©cima segunda, dÃ©cima terceira.
 
-A oitava é quando você atinge a nota **tônica**, porém 7 notas depois.
+A oitava Ã© quando vocÃª atinge a nota **tÃ´nica**, porÃ©m 7 notas depois.
 
 - Exemplo:
 
-	- | DÓ | RÉ | MI | FÁ | SOL | LÁ | SI | DÓ |
+	- | DÃ“ | RÃ‰ | MI | FÃ | SOL | LÃ | SI | DÃ“ |
 	  | -  | -  | -  | -  |  -  | -  | -  |  - |
-	  | 1ª | 2ª | 3ª | 4ª | 5ª  | 6ª | 7ª | 8ª |
+	  | 1Âª | 2Âª | 3Âª | 4Âª | 5Âª  | 6Âª | 7Âª | 8Âª |
 
 ___
 
 ### COMO CALCULAR INTERVALOS
 
-É só contar a partir da **tônica**. (Lembre-se, a tônica é a nota que dá nome ao acorde)
+Ã‰ sÃ³ contar a partir da **tÃ´nica**. (Lembre-se, a tÃ´nica Ã© a nota que dÃ¡ nome ao acorde)
 
 Exemplos:
 
-- de DÓ (C) a MI (E) temos um intervalo de terça:
+- de DÃ“ (C) a MI (E) temos um intervalo de terÃ§a:
 
-	- | DÓ | RÉ | MI |
+	- | DÃ“ | RÃ‰ | MI |
   	  | -  | -  | -  |
-      | 1ª | 2ª | 3ª |
+          | 1Âª | 2Âª | 3Âª |
 
 
-- de DÓ (C) a FÁ (F) temos um intervalo de quinta:
+- de DÃ“ (C) a FÃ (F) temos um intervalo de quinta:
 
-	- | DÓ | RÉ | MI | FÁ |
+	- | DÃ“ | RÃ‰ | MI | FÃ |
   	  | -  | -  | -  | -  |
-      | 1ª | 2ª | 3ª | 4ª |
+          | 1Âª | 2Âª | 3Âª | 4Âª |
 
-E por aí vai! O importante é lembrar que a **nota tônica** é a **primeira** na contagem.
+E por aÃ­ vai! O importante Ã© lembrar que a **nota tÃ´nica** Ã© a **primeira** na contagem.
 
 ___
 
-### CLASSIFICAÇÃO DOS INTERVALOS
+### CLASSIFICAÃ‡ÃƒO DOS INTERVALOS
 
-Calcular o tamanho do intervalo não é tão difícil assim, porém cada intervalo pode ser: maior, menor, justo, aumentado ou diminuto.
+Calcular o tamanho do intervalo nÃ£o Ã© tÃ£o difÃ­cil assim, porÃ©m cada intervalo pode ser: maior, menor, justo, aumentado ou diminuto.
 
-E como distinguir qual é qual? Através dos tons e semitons!
+E como distinguir qual Ã© qual? AtravÃ©s dos tons e semitons!
 
 - Tabela:
 
-|   INTERVALO    |   DISTÂNCIA  |
+|   INTERVALO    |   DISTÃ‚NCIA  |
 |      :-:       |     :-:      |
-| 2ª `menor`     | *½ tom*      |
-| 2ª `maior`     | *1 tom*      |
-| 3ª `menor`     | *1 tom e ½*  |
-| 3ª `maior`     | *2 tons*     |
-| 4ª `justa`     | *2 tons e ½* |
-| 4ª `aumentada` | *3 tons*     |
-| 5ª `diminuta`  | *3 tons*     |
-| 5ª `justa`     | *3 tons e ½* |
-| 5ª `aumentada` | *4 tons*     |
-| 6ª `menor`     | *4 tons*     |
-| 6ª `maior`     | *4 tons e ½* |
-| 7ª `diminuta`  | *4 tons e ½* |
-| 7ª `menor`     | *5 tons*     |
-| 7ª `maior`     | *5 tons e ½* |
-| 8ª `justa`     | *6 tons*     |
+| 2Âª `menor`     | *Â½ tom*      |
+| 2Âª `maior`     | *1 tom*      |
+| 3Âª `menor`     | *1 tom e Â½*  |
+| 3Âª `maior`     | *2 tons*     |
+| 4Âª `justa`     | *2 tons e Â½* |
+| 4Âª `aumentada` | *3 tons*     |
+| 5Âª `diminuta`  | *3 tons*     |
+| 5Âª `justa`     | *3 tons e Â½* |
+| 5Âª `aumentada` | *4 tons*     |
+| 6Âª `menor`     | *4 tons*     |
+| 6Âª `maior`     | *4 tons e Â½* |
+| 7Âª `diminuta`  | *4 tons e Â½* |
+| 7Âª `menor`     | *5 tons*     |
+| 7Âª `maior`     | *5 tons e Â½* |
+| 8Âª `justa`     | *6 tons*     |
 
-Para as 2ª, 3ª, 6ª e 7ª usamos as classificações de **maior**, **menor** e **diminuto**. Para as 4ª e 5ª usamos **justa** ao invés de maior e menor.
+Para as 2Âª, 3Âª, 6Âª e 7Âª usamos as classificaÃ§Ãµes de **maior**, **menor** e **diminuto**. Para as 4Âª e 5Âª usamos **justa** ao invÃ©s de maior e menor.
 
-Alguns intervalos tem a mesma distância, 4ª aumentada e 5ª diminuta, por exemplo. Você vai chamá-lo de uma forma ou de outra dependendo da situação onde ele se encontra. Mas os intervalos são os mesmos!
+Alguns intervalos tem a mesma distÃ¢ncia, 4Âª aumentada e 5Âª diminuta, por exemplo. VocÃª vai chamÃ¡-lo de uma forma ou de outra dependendo da situaÃ§Ã£o onde ele se encontra. Mas os intervalos sÃ£o os mesmos!
 
 ___
 
 
-### REFERÊNCIAS
+### REFERÃŠNCIAS
 
-CAMARGO, M. **O que são e para que servem os intervalos**. Disponível em: <https://www.marinacamargo.mus.br/single-post/2017/04/28/O-que-s%C3%A3o-e-para-que-servem-os-Intervalos>. Acesso em 21 ago. 2018.
+CAMARGO, M. **O que sÃ£o e para que servem os intervalos**. DisponÃ­vel em: <https://www.marinacamargo.mus.br/single-post/2017/04/28/O-que-s%C3%A3o-e-para-que-servem-os-Intervalos>. Acesso em 21 ago. 2018.
 
-TESSMAN, R. **Aprenda os intervalos musicais agora**. Disponível em: <https://aprendapiano.com/intervalos-musicais/>. Acesso em: 21 ago. 2018.
+TESSMAN, R. **Aprenda os intervalos musicais agora**. DisponÃ­vel em: <https://aprendapiano.com/intervalos-musicais/>. Acesso em: 21 ago. 2018.
