@@ -38,7 +38,7 @@ A oitava é quando você atinge a nota **tônica**, porém 7 notas depois.
 - Exemplo:
 
 	- | DÓ | RÉ | MI | FÁ | SOL | LÁ | SI | DÓ |
-	  | -  | -  | -  | -  |  -  | -  | -  |  - |
+	  |:-: |:-: |:-: |:-: | :-: |:-: |:-: |:-: |
 	  | 1ª | 2ª | 3ª | 4ª | 5ª  | 6ª | 7ª | 8ª |
 
 ___
@@ -52,15 +52,15 @@ Exemplos:
 - de DÓ (C) a MI (E) temos um intervalo de terça:
 
 	- | DÓ | RÉ | MI |
-  	  | -  | -  | -  |
-          | 1ª | 2ª | 3ª |
+  	  |:-: |:-: |:-: |
+       | 1ª | 2ª | 3ª |
 
 
 - de DÓ (C) a FÁ (F) temos um intervalo de quinta:
 
 	- | DÓ | RÉ | MI | FÁ |
-  	  | -  | -  | -  | -  |
-          | 1ª | 2ª | 3ª | 4ª |
+  	  |:-: |:-: |:-: |:-: |
+       | 1ª | 2ª | 3ª | 4ª |
 
 E por aí vai! O importante é lembrar que a **nota tônica** é a **primeira** na contagem.
 
