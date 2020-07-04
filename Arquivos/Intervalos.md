@@ -101,6 +101,6 @@ ___
 
 ### REFERÊNCIAS
 
-CAMARGO, M. **O que são e para que servem os intervalos**. Disponível em: <https://www.marinacamargo.mus.br/single-post/2017/04/28/O-que-s%C3%A3o-e-para-que-servem-os-Intervalos>. Acesso em 21 ago. 2018.
+CAMARGO, M. **O que são e para que servem os intervalos**. Disponível em: <https://www.marinacamargo.mus.br/single-post/2017/04/28/O-que-s%C3%A3o-e-para-que-servem-os-Intervalos>. Acesso em: 21 ago. 2018.
 
 TESSMAN, R. **Aprenda os intervalos musicais agora**. Disponível em: <https://aprendapiano.com/intervalos-musicais/>. Acesso em: 21 ago. 2018.
