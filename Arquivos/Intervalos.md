@@ -56,7 +56,7 @@ Exemplos:
        | 1ª | 2ª | 3ª |
 
 
-- de DÓ (C) a FÁ (F) temos um intervalo de quinta:
+- de DÓ (C) a FÁ (F) temos um intervalo de quarta:
 
 	- | DÓ | RÉ | MI | FÁ |
   	  |:-: |:-: |:-: |:-: |
