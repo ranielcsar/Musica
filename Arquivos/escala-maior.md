@@ -13,6 +13,8 @@ Maior natural
 | **G**  |   A    |   B    |   C    |   D    |   E    |   F#   |
 | **A**  |   B    |   C#   |   D    |   E    |   F#   |   G#   |
 | **B**  |   C#   |   D#   |   E    |   F#   |   G#   |   A#   |
+---
+
 
 Mixolídio
 ---
@@ -25,3 +27,4 @@ Mixolídio
 | **G**  |   A    |   B    |   C    |   D    |   E    |   F    |
 | **A**  |   B    |   C#   |   D    |   E    |   F#   |   G    |
 | **B**  |   C#   |   D#   |   E    |   F#   |   G#   |   A    |
+---
